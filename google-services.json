@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734196718653",
+    "project_id": "balloon-up-33641249",
+    "storage_bucket": "balloon-up-33641249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734196718653:android:2d7f4fa00d0c150c2a5e54",
+        "android_client_info": {
+          "package_name": "com.dubbedx.balloonup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734196718653-i4qfjdg9t6cc6eqmbnj1hr77n66tf50p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9wjEGxwwAfCC9R7rDgHaE663uQT_CP-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734196718653-i4qfjdg9t6cc6eqmbnj1hr77n66tf50p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
